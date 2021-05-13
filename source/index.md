@@ -6,7 +6,7 @@ hide:
 ---
 # Невізуальний доступ
 
-## [ruslan.rv.ua/winter_design_school/](http://ruslan.rv.ua/winter_design_school/)
+## [ruslan.rv.ua/non_visual_access/](http://ruslan.rv.ua/non_visual_access/)
 
 ![QR код з посиланням на цю презентацію](qr_link.png)
 
