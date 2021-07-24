@@ -11,3 +11,4 @@ git commit -m "%ldt%"
 
 rem deploy
 git push
+git status
