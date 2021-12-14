@@ -1,3 +1,3 @@
-# Winter Design School
+# Non visual access
 
-Available [here](http://ruslan.rv.ua/winter_design_school/)
+See [presentation](http://ruslan.rv.ua/non_visual_access/)
